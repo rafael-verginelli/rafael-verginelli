@@ -1,48 +1,38 @@
-<!-- ### Hello! I'm Rafael
+# Hello! I'm Rafael
 
-Nice to meet you! I'm a Software Engineer. My journey as a developer started when I was just a kid: my father taught me how to develop applications using Visual Basic and Delphi, and soon after I was playing around developing games with RPG Maker.
-After that I tried many other technologies and languages as I grew up: Unity3D and C#, Java and Eclipse, Visual Studio, C, C++, etc. Then, I ended up settling down with Android App Development in Kotlin.
+Nice to meet you! I'm a Software Engineer. I like to develop apps and games during my free time.
 
-## My Career and Goals
-Started as an intern Game Developer, then working as an Android Developer since 2015, I realized that there are an infinite amount of things to learn and we can never stop, we need to keep studying and practicing to keep up with the recent technologies.
-I am currently working as an Android dev, but my passion for coding goes beyond any specific language. I aim to become a great Fullstack Developer, to be flexible with my choices of IDE and programming languages, to excel as a tech lead, and to get a Master's degree.
-When working on a project, I do my best to make sure the user experience is flawless and that the codebase is well written, clean and maintainable, to make the lives of my peers less complicated.
+## 💼 Career Goals
+I am currently working as an Android Developer, but my passion for coding goes beyond any specific language.
 
-## Hobbies
-I think coding is really fun and that more people should drop the "that's not for me" thought and try it. I truly enjoy the challenges that come with it.
-On my free time I enjoy developing apps and games, and learn a bit of new technologies.
+💪 I aim to become a great Fullstack Developer, to be flexible with my choices of IDE and programming languages, to excel as a tech lead, and to get a Master's degree.
 
-## Tech Stack
-# IDEs
-- Android Studio, Eclipse, XCode, Visual Studio, Unity3D
-# Programming Languages
-Kotlin, Java, C++, C#, Javascript, Dart
-# Mobile Development
-Android Jetpack, Flutter, Kotlin Coroutines, Flow API, Firebase Tools, App Publishing, Clean Architecture, Mobile Advertising, Android Security, Gradle
-Project Management Methodologies
-Scrum, Kanban, Shape Up
-Web Development
-HTML, CSS, Node.js, Express.js, Sequelize, GraphQL, Spring Boot
-Software Development Principles
-SOLID Principles, Clean Architecture, Dependency Injection, TDD, MVVM, MVC, Unit Tests
-Version Control
-Github, Gitflow
-Others
-XML, JSON, MySQL, CI/CD (Jenkins, Bitrise, GitHub Actions, GitLab), REST API -->
+## 🥇 Skills
+### Mobile Development
+- Android Studio, Gradle
+- Kotlin, Flow API, Kotlin Coroutines, Android Jetpack
+- Dart, Flutter
+- SOLID Principles, MVVM
+
+### Web Applications & Server
+- Visual Studio, Eclipse
+- Java, Javascript
+- Node.js, Express.js, Sequelize, EJS
+- Spring Boot, MySQL
+
+![rafael-verginelli's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-verginelli&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+## 💻 Projects
+- I'm currently developing a native Android Catalog App, and I'm building the backend with Node.js and an alternative backend using Spring Boot.
+- I'm also developing a "Secret Santa" app in Flutter, playing around and learning more about the framework.
 
 
+Check my repos, I'll be updating them as I go.
 
-<!--
-**rafael-verginelli/rafael-verginelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📱 Contact
+Feel free to contact me via LinkedIn!
 
-Here are some ideas to get you started:
+https://www.linkedin.com/in/rafael-m-verginelli/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![rafael-verginelli's Stats](https://github-readme-stats.vercel.app/api?username=rafael-verginelli&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![rafael-verginelli's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rafael-verginelli&theme=vue-dark&hide_border=true)
